@@ -10,7 +10,7 @@
 
 <hr>
 
-<h2 align="center"> Descripción</h2>
+<h2 align="center">📖 Descripción</h2>
 
 <p align="center">
   Este proyecto es una aplicación web que simula un sorteo tipo "amigo secreto" con un giro especial:
