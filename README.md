@@ -1,4 +1,4 @@
-<h1 align="center"><u>Amigo beneficiado y designado️</u></h1>
+<h1 align="center"><u>Amigo beneficiado y designado️ 🍽️🎁 </u></h1>
 
 <p align="center">
   <img src="README.img/caratula.jpg" alt="Carátula del juego">
