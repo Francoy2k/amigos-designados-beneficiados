@@ -1,4 +1,4 @@
-##Amigo beneficiado y designado🍽️🎁##
+#Amigo beneficiado y designado🍽️🎁#
 ![Carátula del juego](README.img/caratula.jpg)
 ¡Bienvenidos a Amigo Secreto de la Cena! Un juego interactivo y divertido para decidir quién paga la cena, quien la recibe y quién conduce, todo con un toque de azar y justicia. 🎲✨ Perfecto para reuniones con amigos donde nadie quiere repetir roles hasta que todos hayan tenido su turno. 🚗💸
 ________________________________________
